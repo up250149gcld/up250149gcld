@@ -2,7 +2,7 @@
 
 ## Me gusta tocar guitarra, bajo, aprender de musica, jugar videojuegos y hacer deporte.
 
-Arriba las chivas
+ドラゴンボール、キノコ、ココナッツが好きです
 <!--
 **up250149gcld/up250149gcld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

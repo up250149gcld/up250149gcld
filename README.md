@@ -1,6 +1,8 @@
 # Hola! Soy Daniel, alumno de la UPA en la carrera de mecatronica, este es mi repositorio.👋
 
 ## Me gusta tocar guitarra, bajo, aprender de musica, jugar videojuegos y hacer deporte.
+
+Arriba las chivas
 <!--
 **up250149gcld/up250149gcld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
